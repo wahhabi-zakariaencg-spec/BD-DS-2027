@@ -1,0 +1,11 @@
+
+
+Toutes les données proviennent de la **Banque mondiale – World Development Indicators** (mise à jour du 13/07/2026), période 2000–2025.
+
+| Indicateur | Code | Page de la base | Données brutes (API) |
+|---|---|---|---|
+| Croissance du PIB (% annuel) | NY.GDP.MKTP.KD.ZG | [Lien](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=MA) | [API](https://api.worldbank.org/v2/country/MAR/indicator/NY.GDP.MKTP.KD.ZG?format=json&date=2000:2025) |
+| Formation brute de capital (% du PIB) | NE.GDI.TOTL.ZS | [Lien](https://data.worldbank.org/indicator/NE.GDI.TOTL.ZS?locations=MA) | [API](https://api.worldbank.org/v2/country/MAR/indicator/NE.GDI.TOTL.ZS?format=json&date=2000:2025) |
+
+Base générale : [World Development Indicators](https://databank.worldbank.org/source/world-development-indicators)
+ 
