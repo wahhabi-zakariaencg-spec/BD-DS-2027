@@ -75,7 +75,7 @@ Les données le confirment : l'écart-type de la croissance **double** entre les
 
 En 2020, la croissance tombe à **−7,2 %** avec la crise du Covid-19 (arrêt du tourisme, baisse des exportations et des transferts). Le rebond de 2021 (+8,2 %) est surtout un rattrapage : le niveau de production retrouve à peine celui d'avant la crise.
 
-### Autres freins structurels (pistes à approfondir)
+### Autres freins structurels :
 
 Ces freins ne sont pas mesurés dans notre dataset, mais ils sont régulièrement cités par la Banque mondiale et le HCP :
 - la **faible participation des femmes** au marché du travail, l'une des plus basses au monde (indicateur SL.TLF.CACT.FE.ZS de la Banque mondiale) ;
